@@ -1,10 +1,8 @@
-# Investigar
+# Proyecto Entorno 
 
-# Modelar un usuario y contraseña ?? Usar ORM
-
-# Qué patrón de diseño utilizar
-
-# IMPLEMENTAR EL LOGIN
+ Modelar un usuario y contraseña ?? Usar ORM
+ Qué patrón de diseño utilizar
+ IMPLEMENTAR EL LOGIN
 
 # Módulos
 
